@@ -1,0 +1,2 @@
+"Como faria de atualizar no utf8 de versão do algoritmo 0900 para 1000?"
+"JOIN x UNION"
